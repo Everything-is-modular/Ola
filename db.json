@@ -1,0 +1,29 @@
+{
+    "rides" : [
+        {
+            "date": 1570616079,
+            "CRN" : 733574588,
+            "source" :  "Hisar",
+            "destnation" : "Noida",
+            "driver_photo" :"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hit4hit.org%2Fimg%2Flogin%2Fuser-icon-6.png&f=1&nofb=1"
+        },
+        
+
+        {
+            "date": 1570616079,
+            "CRN" : 733574588,
+            "source" :  "Hisar",
+            "destnation" : "Noida",
+            "driver_photo" :"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hit4hit.org%2Fimg%2Flogin%2Fuser-icon-6.png&f=1&nofb=1"
+        },
+        
+
+        {
+            "date": 1570616079,
+            "CRN" : 733574588,
+            "source" :  "Hisar",
+            "destnation" : "Noida",
+            "driver_photo" :"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hit4hit.org%2Fimg%2Flogin%2Fuser-icon-6.png&f=1&nofb=1"
+        }
+    ]
+}
